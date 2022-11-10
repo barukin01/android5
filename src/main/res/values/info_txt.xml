@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Sportmaster</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>В Павлодаре есть нескольно магазинов Sportmaster:<.</b> <BR>
+        1. ул. Естая, 85/1<BR>
+        2. ул. Камзина, 67/1 (ТЦ Batyr mall)<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">ул. Естая, 85/1</string>
+    <string name="marker1_txt_click">ул. Естая, 85/1</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Один из магазинов Sportmaster</b> (ПГУ)<BR>
+        Расположен по адресу: ул. Естая, 85/1 <BR>
+        Спортивный магазинтовары для отдыха и туризма<BR>
+        спортивная одежда и обувь<BR>
+        Телефон: 8 (800) 080-33-33 <BR>
+        Сайт: http://www.sportmaster.com<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/PSU/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">ул. Камзина, 67/1 (ТЦ Batyr mall) </string>
+    <string name="marker2_txt_click">ул. Камзина, 67/1 (ТЦ Batyr mall)</string>
+    <string name="marker2_info">
+        <![CDATA[
+               <b>Один из магазинов Sportmaster</b> (ПГУ)<BR>
+        Расположен по адресу: ул. Камзина, 67/1 (ТЦ Batyr mall) <BR>
+        Спортивный магазинтовары для отдыха и туризма<BR>
+        спортивная одежда и обувь<BR>
+        Телефон: 8 (800) 080-33-33 <BR>
+        Сайт: http://www.sportmaster.com<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/INEU/index.html</string>
+
+</resources>
